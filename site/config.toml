@@ -3,6 +3,21 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
 
+[languages]
+  [languages.fr]
+    title = "Commuty fr"
+    languageName = "French"
+    description = "Description de mon site"
+    weight = 2
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.nl]
+    title = "Commuty nl"
+    languageName = "Flamish"
+    description = "Description nl"
+    weight = 3
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
