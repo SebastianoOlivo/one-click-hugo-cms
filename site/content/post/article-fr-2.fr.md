@@ -1,7 +1,7 @@
 ---
 title: Article fr 2
 date: 2020-06-24T16:24:29.907Z
-language: fr
+language: nl
 description: Vulgaire tu trouve ça vulgaire ?
 image: img/5e81c25ed8ad5816318c78db.jpg
 ---
