@@ -1,7 +1,7 @@
 ---
 title: Un bel article 2
 date: 2020-06-24T15:14:45.549Z
-Langage: fr
+language: fr
 description: "Vulgaire, tu trouve ça vulgaire "
 image: img/5e81c25ed8ad5816318c78db.jpg
 ---
