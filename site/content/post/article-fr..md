@@ -2,7 +2,7 @@
 title: Article fr
 date: 2020-06-24T16:10:39.961Z
 Langage: fr
-description: Vulgaire tu trouve ça vulgaire
+description: Vulgaire tu trouve ça vulgaire ?
 image: img/5e81c25ed8ad5816318c78db.jpg
 ---
 Le dikkenek du film est incarné notamment par J.C., qui prend un grand plaisir à donner des leçons à toute personne croisant sa route. Le personnage de Claudy Focan, interprété par[François Damiens](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Damiens "François Damiens"), est également un dikkenek.
