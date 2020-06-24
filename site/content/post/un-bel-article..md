@@ -1,5 +1,5 @@
 ---
-title: "Un bel article "
+title: Un bel article 2
 date: 2020-06-24T15:14:45.549Z
 Langage: fr
 description: "Vulgaire, tu trouve ça vulgaire "
